@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+}
+.cardContainer{
+    /* border: solid black; */
+    width: 422px;
+    height: 52vh;
+    margin-top: 112px;
+    margin-left: 30%;
+}
+.title{
+    color: red;
+}
+.hearts{
+    width: 100%;
+    height: 80%;
+}
+.button{
+    margin-left: 50%;
+    height: 8vh;
+    border-radius: 92px;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+}
