@@ -1,5 +1,5 @@
 
-
+// grab class from html and add new img ................
 let img = document.querySelector(".heartsTwo")
 let button = document.querySelector('.button')
 
